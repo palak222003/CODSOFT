@@ -1,0 +1,87 @@
+body{
+background-image: url("style.jpg");
+background-repeat:no-repeat;
+background-size:100%;
+background-attachment: scroll;
+}
+.navbar{
+overflow:hidden;
+margin-left:705px;
+
+}
+.navbar i{
+text-align:center
+}
+.navbar a{
+text-decoration:none;
+color:#4F6F52;
+padding:14px 16px;
+font-size:20px;
+text-align:center;
+float:right;
+}
+.navbar a:hover {
+  background-color:white;
+  color: black;
+}
+.quote{
+color:#4F6F52;
+margin-left:500px;
+margin-top:100px;
+}
+.quote .inside1{
+font-size:100px;
+}
+.quote .inside2{
+font-size:32px;
+font-style:italic;
+margin-left:180px;
+}
+.name{
+font-size:150px;
+color:#B99470;
+margin-top:220px;
+margin-left:80px;
+font-family: "Times New Roman", Times, serif;
+}
+.offer{
+  font-size:50px;
+  color:#B99470;
+  margin-left:190px; 
+}
+.option{
+  position:relative;
+  top:200px;
+  left:60px;
+}
+.option a:hover {
+  opacity: 0.5;
+}
+.optionname{
+  position:relative;
+  left:200px;
+  font-size: 25px;
+  color:white;
+  word-spacing:300px;
+}
+.contact{
+bottom:100px;
+left:200px;
+position:relative;
+top:300px;
+left:1000px;
+}
+.contact .fa:hover {
+  opacity: 0.7;
+}
+.contact .fa {
+  padding: 20px;
+  font-size: 40px;
+  width: 8px;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+  color:#1A4D2E;
+}
+
+
